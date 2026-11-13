@@ -48,3 +48,8 @@ android/ 已存在，不要重复 android:add。若从不含 android/ 的工程�
 已增加 AppIconPlugin.java、MainActivity 注册、五组启动器 activity-alias 和对应矢量/自适应图标。使用本地 Capacitor JS 运行时；源代码和 XML 校验通过，未执行 Java/Gradle 编译。绿色为默认唯一启用入口，其他入口初始禁用。
 
 待真机确认：切换后启动器刷新延迟、只保留一个图标、再次启动正常、各支持 Android 版本表现。网页不能直接改变桌面图标。先前默认图标待确认的描述现由本段五色书籍图标方案更新，正式交付仍需用户确认。
+
+
+## 2026-11-14 APK 最新状态
+
+已生成 releases/Arabic-Learning-v0.2.0.apk（正式签名 release，15,930,613 字节），v2/v3 签名和内置资源检查通过；隔离 API 37 模拟器安装、启动及蓝色图标切换/重启通过。此前“未编译 APK”等表述属于历史准备阶段。发布流程见 APK打包与发布.md。公开源码上传范围仅软件工程；GitHub 发布待 Fankikotan 账号授权。

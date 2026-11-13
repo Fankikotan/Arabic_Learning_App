@@ -10,3 +10,5 @@ data/source/
 __pycache__/
 *.pyc
 capture-dom.txt
+
+releases/*.zip

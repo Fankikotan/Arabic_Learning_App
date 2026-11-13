@@ -45,6 +45,7 @@
     "framework": "Capacitor",
     "appId": "com.stusta.arabiclearning",
     "webDir": "www",
-    "stage": "prepared-not-built"
+    "stage": "release-signed-emulator-smoke-passed",
+    "releaseApk": "releases/Arabic-Learning-v0.2.0.apk"
   }
 }
