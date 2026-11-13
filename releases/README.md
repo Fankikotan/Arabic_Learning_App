@@ -1,3 +1,11 @@
+# 当前版本 v0.2.1
+
+[下载 APK](https://github.com/Fankikotan/Arabic_Learning_App/releases/download/v0.2.1/Arabic-Learning-v0.2.1.apk)
+
+原证书签名，versionCode 2。校验和见 SHA256SUMS-v0.2.1.txt，签名验证见 signature-verification-v0.2.1.txt。旧版 v0.2.0 仍保留。
+
+---
+
 # Android 安装包
 
 - 版本：0.2.0，包名 com.stusta.arabiclearning。

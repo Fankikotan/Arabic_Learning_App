@@ -16,7 +16,8 @@
     "continuous playback resumes after selected word",
     "personalized banner text and in-app icon color",
     "banner image upload and IndexedDB persistence",
-    "card word tap speaks without flipping the translation"
+    "card word tap speaks without flipping the translation",
+    "independent example-original and translation settings: all six combinations in entry and card views"
   ],
   "errors": []
 }

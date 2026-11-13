@@ -53,3 +53,10 @@ android/ 已存在，不要重复 android:add。若从不含 android/ 的工程�
 ## 2026-11-14 APK 最新状态
 
 已生成 releases/Arabic-Learning-v0.2.0.apk（正式签名 release，15,930,613 字节），v2/v3 签名和内置资源检查通过；隔离 API 37 模拟器安装、启动及蓝色图标切换/重启通过。此前“未编译 APK”等表述属于历史准备阶段。发布流程见 APK打包与发布.md。公开源码上传范围仅软件工程；GitHub 已发布：[源码仓库](https://github.com/Fankikotan/Arabic_Learning_App)、[v0.2.0 Release](https://github.com/Fankikotan/Arabic_Learning_App/releases/tag/v0.2.0)。
+
+
+## v0.2.1：例句显示控制
+
+词汇页右上角打开“通用词汇显示设置”：例句原文通过独立勾选项控制；例句翻译可选择默认显示、点击显示或不显示。设置同时适用于条目和卡片、词本/最近接触/收藏/我的学习。关闭原文不再强制关闭翻译，关闭翻译也不隐藏原文。
+
+v0.2.1 使用 versionCode 2 与原有签名密钥，可覆盖安装 v0.2.0；旧版 Release 保留。浏览器已检查原文开关与翻译三种模式的全部六种组合。

@@ -45,9 +45,9 @@
     "framework": "Capacitor",
     "appId": "com.stusta.arabiclearning",
     "webDir": "www",
-    "stage": "published-v0.2.0",
-    "releaseApk": "releases/Arabic-Learning-v0.2.0.apk",
-    "downloadUrl": "https://github.com/Fankikotan/Arabic_Learning_App/releases/download/v0.2.0/Arabic-Learning-v0.2.0.apk"
+    "stage": "release-signed-v0.2.1",
+    "releaseApk": "releases/Arabic-Learning-v0.2.1.apk",
+    "downloadUrl": "https://github.com/Fankikotan/Arabic_Learning_App/releases/download/v0.2.1/Arabic-Learning-v0.2.1.apk"
   },
   "repository": "https://github.com/Fankikotan/Arabic_Learning_App"
 }
