@@ -10,7 +10,7 @@
 4. 对 unsigned APK 执行 zipalign，再用本地 RSA 3072 位密钥通过 apksigner 签名。
 5. 验证 v2/v3 签名、ZIP 完整性、包名、版本、内置材料和音频。
 6. 在隔离 Android API 37 模拟器中安装启动，并验证桌面图标切换至蓝色后仍可启动。
-7. 将软件工程上传到 Fankikotan/Arabic_Learning_App，APK 作为 GitHub Release 附件发布。当前本机待完成目标账号授权。
+7. 将软件工程上传到 Fankikotan/Arabic_Learning_App，APK 作为 GitHub Release 附件发布。已使用 Fankikotan 完成授权，源码与 APK Release 均已发布。
 
 ## 用 Android Studio 再次打包
 

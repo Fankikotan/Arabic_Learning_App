@@ -1,23 +1,44 @@
 # Arabic Learning
 
-当前版本 0.2.0。这是手机优先的阿拉伯语学习软件，完整内置教材、经典故事、词本、真实配音及阿英词典。
+[下载 Android APK](https://github.com/Fankikotan/Arabic_Learning_App/releases/download/v0.2.0/Arabic-Learning-v0.2.0.apk) · [Release 与校验文件](https://github.com/Fankikotan/Arabic_Learning_App/releases/tag/v0.2.0)
 
-在本目录 `npm ci`、`npm start` 后打开 http://localhost:4173 。网页也可直接 `node scripts/serve.mjs` 运行。
+手机优先的阿拉伯语学习软件。已内置 12 课入门教材、194 词《渔夫与精灵》、配套词本、章节语法、翻译、385 段真实音频和阿英词典，无需额外导入。
 
-已内置 12 课第一册、194 词《渔夫与精灵》、完整配套词本/语法/音频与阿英后备词典，无需导入。章节定位使用真实服务词边界；词典不包含音频。
+## Android 安装
+
+下载上方 APK，在 Android 7.0+ 设备允许当前来源安装后打开。正式签名 release v0.2.0，约 15.9MB。校验和与公开签名摘要随 Release 提供。已通过 API 37 模拟器安装、启动与蓝色桌面图标切换检查；不同实体机、后台音频与文件导出仍需实机确认。
+
+## 运行源码
+
+需要 Node.js 22+：
+
+```powershell
+npm ci
+npm start
+```
+
+打开 http://localhost:4173 。仅运行网页也可 `node scripts/serve.mjs`，无需 Android 工具。
+
+## 开发与构建
+
+```powershell
+npm run check
+npm run android:sync
+npm run android:open
+```
+
+Android 使用 Java 21、SDK 36；本机 SDK 路径不提交。正式签名密钥由项目所有者保管，不在仓库中。完整网页包可由 `python scripts/package-mobile.py` 生成。
+
+## 文档
 
 - [使用说明](使用说明.md)
+- [打包与发布流程](APK打包与发布.md)
 - [项目具体设计](项目具体设计.md)
 - [通用设计规范](语言学习网页设计规范.md)
-- [材料包协议](材料包格式.md)
+- [材料包格式](材料包格式.md)
 - [交付配置](material-delivery.config.json)
-- [最新进度](项目进度与讨论.md)
-- [Android 打包准备](Android打包准备.md)
-- [资源来源与许可](app/THIRD-PARTY-NOTICES.md)
+- [项目进度](项目进度与讨论.md)
+- [Android 准备记录](Android打包准备.md)
+- [词典及依赖来源与许可](app/THIRD-PARTY-NOTICES.md)
 
-`npm run check` 执行逻辑检查；`python scripts/package-mobile.py` 重建手机网页包；`npm run android:sync` 准备并同步 Android 资源，不编译 APK。尚未完成真机与后台播放验收、原生导出适配确认及专用手机进度导出。
-
-
-## 2026-11-14 APK 最新状态
-
-已生成 releases/Arabic-Learning-v0.2.0.apk（正式签名 release，15,930,613 字节），v2/v3 签名和内置资源检查通过；隔离 API 37 模拟器安装、启动及蓝色图标切换/重启通过。此前“未编译 APK”等表述属于历史准备阶段。发布流程见 APK打包与发布.md。公开源码上传范围仅软件工程；GitHub 发布待 Fankikotan 账号授权。
+词典文本来自 Wiktionary / Kaikki，按 CC BY-SA 4.0 保留归属与修改说明。其他代码和资源许可分别说明。仓库不含个人学习档案、独立技能、签名密钥或本机运行缓存。Release 中的源码 ZIP 为构建时快照；最新文档以 main 分支为准。

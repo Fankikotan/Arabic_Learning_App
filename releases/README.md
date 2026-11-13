@@ -5,6 +5,6 @@
 - SHA-256：4588ec59e78b8646fe4c3894446d948b82fc7d9bc659bb53bf1f6b8a708ec2ab。
 - 已通过 apksigner v2/v3 签名验证及 Android API 37 模拟器安装/启动检查。
 
-APK 作为 GitHub Releases 附件提供，源码仓库不重复保存 APK 二进制；公开下载入口为仓库 Releases 页面。当前发布需要先完成 Fankikotan 账号授权。
+APK 作为 GitHub Releases 附件提供，源码仓库不重复保存 APK 二进制；公开下载入口为仓库 Releases 页面。已发布：[APK 下载](https://github.com/Fankikotan/Arabic_Learning_App/releases/download/v0.2.0/Arabic-Learning-v0.2.0.apk)、[Release 页面](https://github.com/Fankikotan/Arabic_Learning_App/releases/tag/v0.2.0)。
 
 签名密钥不在此目录，也不上传 GitHub。
