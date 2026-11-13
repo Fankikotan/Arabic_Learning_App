@@ -1,0 +1,12 @@
+.browser-test/
+.chrome-test/
+.chrome-qa/
+node_modules/
+*.log
+.chrome*/
+www/
+data/source/
+发布包/
+__pycache__/
+*.pyc
+capture-dom.txt

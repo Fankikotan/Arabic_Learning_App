@@ -1,0 +1,21 @@
+{
+  "name": "arabic-learning",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "check": "node --check app/app.js && node --check scripts/serve.mjs && node scripts/check-materials.mjs && node scripts/check-grammar.mjs && node scripts/check-cards.mjs && node scripts/check-review.mjs",
+    "android:prepare": "node scripts/prepare-android.mjs",
+    "android:add": "cap add android",
+    "android:sync": "npm run android:prepare && cap sync android",
+    "android:open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/core": "^8.6.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.2"
+  }
+}

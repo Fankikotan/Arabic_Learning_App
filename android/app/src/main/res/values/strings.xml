@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Arabic Learning</string>
+    <string name="title_activity_main">Arabic Learning</string>
+    <string name="package_name">com.stusta.arabiclearning</string>
+    <string name="custom_url_scheme">com.stusta.arabiclearning</string>
+</resources>

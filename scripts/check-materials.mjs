@@ -1,0 +1,16 @@
+import {readFile} from 'node:fs/promises';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+const code=await readFile('app/app.js','utf8');
+const start=code.indexOf('async function unzip('),end=code.indexOf("$('#import').onchange",start);
+const context=vm.createContext({DataView,Uint8Array,TextDecoder,Blob,Response,DecompressionStream,Map,Set,Error,Number,Array});
+vm.runInContext(code.slice(start,end)+';globalThis.api={unzip,validatePackage}',context);
+const bytes=await readFile('materials/示例材料包.zip');
+const files=await context.api.unzip(new Blob([bytes]));
+const m=JSON.parse(new TextDecoder().decode(files.get('manifest.json')));
+context.api.validatePackage(m,files);
+assert.equal(m.books.length,1);assert.equal(m.notebooks.length,1);
+assert.throws(()=>context.api.validatePackage({...m,schemaVersion:999},files));
+const missing=structuredClone(m);missing.books[0].chapters[0].audio='absent.mp3';assert.throws(()=>context.api.validatePackage(missing,files));
+await assert.rejects(()=>context.api.unzip(new Blob(['broken zip'])));
+console.log('PASS: real ZIP parsing, valid manifest, incompatible schema, missing audio, corrupt archive');

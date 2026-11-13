@@ -1,0 +1,4 @@
+import {readFile} from 'node:fs/promises';import assert from 'node:assert/strict';import vm from 'node:vm';
+const code=await readFile('app/app.js','utf8');const ctx=vm.createContext({});vm.runInContext(code.slice(code.indexOf('function reviewSchedule('),code.indexOf('function rateCurrent('))+';globalThis.schedule=reviewSchedule',ctx);
+const now=100000;assert.equal(ctx.schedule(null,'stranger',now).due,now+600000);assert.equal(ctx.schedule(null,'vague',now).days,1);const first=ctx.schedule(null,'familiar',now);assert.equal(first.days,3);assert.equal(ctx.schedule(first,'familiar',now).days,7.5);assert.equal(ctx.schedule(first,'stranger',now).days,0);assert.equal(ctx.schedule({days:180},'familiar',now).days,180);
+console.log('PASS: stranger/vague/familiar intervals, repeat growth, lapse reset, maximum interval');

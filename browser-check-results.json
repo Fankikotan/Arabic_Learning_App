@@ -1,0 +1,22 @@
+{
+  "passed": [
+    "builtin home loaded",
+    "2 builtin books, no import needed",
+    "builtin chapter MP3 decodes",
+    "chapter grammar rendered",
+    "word click starts real audio",
+    "builtin English dictionary lookup",
+    "textbook vocabulary filters by lesson",
+    "card reveal preserves DOM (no page rebuild)",
+    "vocabulary auto playback started",
+    "all 385 MP3 files decode; chapter timestamps within real duration",
+    "entry mode shows Latin transliteration",
+    "word tap speaks while sequence is stopped",
+    "manual tap overrides continuous audio with exact selected word",
+    "continuous playback resumes after selected word",
+    "personalized banner text and in-app icon color",
+    "banner image upload and IndexedDB persistence",
+    "card word tap speaks without flipping the translation"
+  ],
+  "errors": []
+}

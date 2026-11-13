@@ -1,0 +1,12 @@
+import {readFile} from 'node:fs/promises';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+const source=await readFile('app/app.js','utf8');
+let output='';
+const reader={book:{language:'ar'},chapter:{title:'测试课',sentences:[{id:'s1',text:'هذا كتاب',translations:{zh:'这是一本书'}}]}};
+const ctx=vm.createContext({reader,state:{settings:{language:'zh'}},modal:(title,body)=>output=body,esc:s=>String(s??'').replaceAll('<','&lt;'),Array});
+vm.runInContext(source.slice(source.indexOf('function showGrammar()'),source.indexOf('function chapters()'))+';globalThis.show=showGrammar',ctx);
+ctx.show();assert.ok(output.includes('暂无语法'));
+reader.chapter.grammar=[{id:'g1',title:'名词句',status:'new',explanation:'<说明>',examples:[{sentenceId:'s1'}]},{id:'g2',title:'复习',status:'review',explanation:'旧知识',examples:[{sentenceId:'absent'}]}];
+ctx.show();assert.ok(output.includes('新语法'));assert.ok(output.includes('复习语法'));assert.ok(output.includes('هذا كتاب'));assert.ok(output.includes('这是一本书'));assert.ok(output.includes('&lt;说明>'));assert.ok(output.includes('例句未找到'));
+console.log('PASS: grammar empty state, new/review groups, actual chapter examples, translation fallback, escaped content, missing reference');

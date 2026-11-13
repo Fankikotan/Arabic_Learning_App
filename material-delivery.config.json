@@ -1,0 +1,50 @@
+{
+  "configVersion": 1,
+  "materialFormat": "arabic-learning-material",
+  "schemaVersion": 1,
+  "defaultDelivery": "complete",
+  "required": [
+    "books",
+    "linkedNotebooks",
+    "chapterAudio",
+    "wordTimestamps",
+    "wordAudio",
+    "transliteration",
+    "exampleTranslation",
+    "chapterGrammar",
+    "sentenceTranslations"
+  ],
+  "optional": [
+    "cover"
+  ],
+  "generateCoverByDefault": false,
+  "transliteration": "Latin-script pronunciation guide, not English meaning",
+  "audioMissingPolicy": "report-incomplete; never claim complete or fabricate audio/timestamps",
+  "allowExplicitTextOnly": true,
+  "builtIn": {
+    "books": [
+      "ar-foundations-001",
+      "ar-fisherman-001"
+    ],
+    "dictionary": {
+      "file": "data/dictionary.json",
+      "source": "Kaikki / Wiktionary",
+      "meaningLanguage": "en",
+      "audioRequired": false
+    },
+    "assetRoot": "builtin/",
+    "requiresImport": false
+  },
+  "audio": {
+    "voice": "ar-SA-HamedNeural",
+    "chapterRate": "-15%",
+    "wordRate": "-10%",
+    "alignment": "real service WordBoundary metadata; normalized token-by-token validation"
+  },
+  "android": {
+    "framework": "Capacitor",
+    "appId": "com.stusta.arabiclearning",
+    "webDir": "www",
+    "stage": "prepared-not-built"
+  }
+}

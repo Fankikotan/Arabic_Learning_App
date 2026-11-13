@@ -1,0 +1,56 @@
+{
+  "format": "arabic-learning-material",
+  "schemaVersion": 1,
+  "title": "阿拉伯语入门 · 示例材料",
+  "books": [
+    {
+      "id": "sample-greetings",
+      "version": 1,
+      "title": "相遇与问候",
+      "coverTitle": "مرحبا",
+      "language": "ar",
+      "chapters": [
+        {
+          "id": "greetings",
+          "title": "第一章 · 你好",
+          "sentences": [
+            {
+              "id": "s1",
+              "text": "مَرْحَبًا بِكَ فِي بَيْتِي.",
+              "translations": {
+                "zh": "欢迎来到我家。"
+              }
+            },
+            {
+              "id": "s2",
+              "text": "كَيْفَ حَالُكَ الْيَوْمَ؟",
+              "translations": {
+                "zh": "你今天好吗？"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notebooks": [
+    {
+      "id": "sample-greeting-words",
+      "title": "问候用语",
+      "words": [
+        {
+          "id": "hello",
+          "word": "مَرْحَبًا",
+          "meaning": "你好；欢迎",
+          "example": "مَرْحَبًا بِكَ فِي بَيْتِي."
+        },
+        {
+          "id": "today",
+          "word": "الْيَوْمَ",
+          "meaning": "今天",
+          "example": "كَيْفَ حَالُكَ الْيَوْمَ؟"
+        }
+      ]
+    }
+  ]
+}
