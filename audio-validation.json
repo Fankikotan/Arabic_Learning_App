@@ -1,23 +1,23 @@
 [
   {
-    "key": "ar-foundations-001/audio/chapters/lesson-01.mp3",
-    "duration": 21.72,
-    "lastWordEnd": 20.691166
-  },
-  {
     "key": "ar-foundations-001/audio/chapters/lesson-02.mp3",
     "duration": 24.024,
     "lastWordEnd": 22.999999
   },
   {
-    "key": "ar-foundations-001/audio/chapters/lesson-03.mp3",
-    "duration": 24.984,
-    "lastWordEnd": 23.955916
+    "key": "ar-foundations-001/audio/chapters/lesson-01.mp3",
+    "duration": 21.72,
+    "lastWordEnd": 20.691166
   },
   {
     "key": "ar-foundations-001/audio/chapters/lesson-04.mp3",
     "duration": 26.28,
     "lastWordEnd": 25.235291
+  },
+  {
+    "key": "ar-foundations-001/audio/chapters/lesson-03.mp3",
+    "duration": 24.984,
+    "lastWordEnd": 23.955916
   },
   {
     "key": "ar-foundations-001/audio/chapters/lesson-05.mp3",
@@ -40,14 +40,14 @@
     "lastWordEnd": 26.632333
   },
   {
-    "key": "ar-foundations-001/audio/chapters/lesson-10.mp3",
-    "duration": 25.032,
-    "lastWordEnd": 23.999999
-  },
-  {
     "key": "ar-foundations-001/audio/chapters/lesson-09.mp3",
     "duration": 26.568,
     "lastWordEnd": 25.529416
+  },
+  {
+    "key": "ar-foundations-001/audio/chapters/lesson-10.mp3",
+    "duration": 25.032,
+    "lastWordEnd": 23.999999
   },
   {
     "key": "ar-foundations-001/audio/chapters/lesson-11.mp3",
@@ -60,23 +60,18 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001/audio/chapters/lesson-12.mp3",
-    "duration": 30.024,
-    "lastWordEnd": 28.985291
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w002.mp3",
     "duration": 1.584,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w003.mp3",
-    "duration": 1.68,
-    "lastWordEnd": 0
+    "key": "ar-foundations-001/audio/chapters/lesson-12.mp3",
+    "duration": 30.024,
+    "lastWordEnd": 28.985291
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w005.mp3",
-    "duration": 1.848,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w003.mp3",
+    "duration": 1.68,
     "lastWordEnd": 0
   },
   {
@@ -85,12 +80,12 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w006.mp3",
-    "duration": 1.704,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w005.mp3",
+    "duration": 1.848,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w008.mp3",
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w006.mp3",
     "duration": 1.704,
     "lastWordEnd": 0
   },
@@ -100,13 +95,18 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w009.mp3",
-    "duration": 1.752,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w010.mp3",
+    "duration": 1.416,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w010.mp3",
-    "duration": 1.416,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w008.mp3",
+    "duration": 1.704,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w009.mp3",
+    "duration": 1.752,
     "lastWordEnd": 0
   },
   {
@@ -115,18 +115,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w011.mp3",
-    "duration": 1.68,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w013.mp3",
     "duration": 1.872,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w014.mp3",
-    "duration": 1.872,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w011.mp3",
+    "duration": 1.68,
     "lastWordEnd": 0
   },
   {
@@ -140,6 +135,16 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w014.mp3",
+    "duration": 1.872,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w019.mp3",
+    "duration": 1.368,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w017.mp3",
     "duration": 1.68,
     "lastWordEnd": 0
@@ -150,8 +155,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w019.mp3",
-    "duration": 1.368,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w020.mp3",
+    "duration": 1.896,
     "lastWordEnd": 0
   },
   {
@@ -160,18 +165,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w020.mp3",
-    "duration": 1.896,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w022.mp3",
     "duration": 2.064,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w024.mp3",
-    "duration": 1.728,
     "lastWordEnd": 0
   },
   {
@@ -180,13 +175,23 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w026.mp3",
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w024.mp3",
     "duration": 1.728,
     "lastWordEnd": 0
   },
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w025.mp3",
     "duration": 1.8,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w026.mp3",
+    "duration": 1.728,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w028.mp3",
+    "duration": 1.896,
     "lastWordEnd": 0
   },
   {
@@ -200,8 +205,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w028.mp3",
-    "duration": 1.896,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w031.mp3",
+    "duration": 1.944,
     "lastWordEnd": 0
   },
   {
@@ -215,18 +220,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w031.mp3",
-    "duration": 1.944,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w032.mp3",
     "duration": 1.824,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w035.mp3",
-    "duration": 1.8,
     "lastWordEnd": 0
   },
   {
@@ -235,13 +230,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w036.mp3",
-    "duration": 2.064,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w035.mp3",
+    "duration": 1.8,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w038.mp3",
-    "duration": 1.848,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w036.mp3",
+    "duration": 2.064,
     "lastWordEnd": 0
   },
   {
@@ -250,13 +245,18 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w039.mp3",
-    "duration": 1.776,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w040.mp3",
+    "duration": 1.68,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w040.mp3",
-    "duration": 1.68,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w038.mp3",
+    "duration": 1.848,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w039.mp3",
+    "duration": 1.776,
     "lastWordEnd": 0
   },
   {
@@ -280,8 +280,18 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w046.mp3",
+    "duration": 1.848,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w045.mp3",
     "duration": 1.968,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w047.mp3",
+    "duration": 1.848,
     "lastWordEnd": 0
   },
   {
@@ -290,13 +300,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w046.mp3",
-    "duration": 1.848,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w047.mp3",
-    "duration": 1.848,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w049.mp3",
+    "duration": 2.064,
     "lastWordEnd": 0
   },
   {
@@ -310,18 +315,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w049.mp3",
-    "duration": 2.064,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w052.mp3",
+    "duration": 1.632,
     "lastWordEnd": 0
   },
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w053.mp3",
     "duration": 2.088,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w052.mp3",
-    "duration": 1.632,
     "lastWordEnd": 0
   },
   {
@@ -340,13 +340,18 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w058.mp3",
+    "duration": 1.56,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w057.mp3",
     "duration": 1.872,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w058.mp3",
-    "duration": 1.56,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w061.mp3",
+    "duration": 1.704,
     "lastWordEnd": 0
   },
   {
@@ -365,11 +370,6 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w061.mp3",
-    "duration": 1.704,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w062.mp3",
     "duration": 1.968,
     "lastWordEnd": 0
@@ -377,6 +377,11 @@
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w064.mp3",
     "duration": 1.8,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w067.mp3",
+    "duration": 1.848,
     "lastWordEnd": 0
   },
   {
@@ -390,11 +395,6 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w067.mp3",
-    "duration": 1.848,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w068.mp3",
     "duration": 2.064,
     "lastWordEnd": 0
@@ -405,6 +405,11 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w070.mp3",
+    "duration": 1.896,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w071.mp3",
     "duration": 1.752,
     "lastWordEnd": 0
@@ -412,11 +417,6 @@
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w072.mp3",
     "duration": 1.752,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w070.mp3",
-    "duration": 1.896,
     "lastWordEnd": 0
   },
   {
@@ -440,6 +440,11 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w079.mp3",
+    "duration": 2.016,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w077.mp3",
     "duration": 1.872,
     "lastWordEnd": 0
@@ -455,11 +460,6 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w079.mp3",
-    "duration": 2.016,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w081.mp3",
     "duration": 2.112,
     "lastWordEnd": 0
@@ -467,11 +467,6 @@
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w082.mp3",
     "duration": 1.872,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w083.mp3",
-    "duration": 1.896,
     "lastWordEnd": 0
   },
   {
@@ -485,17 +480,27 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w083.mp3",
+    "duration": 1.896,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001/audio/chapters/lesson-01.mp3",
+    "duration": 151.008,
+    "lastWordEnd": 149.955875
+  },
+  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w086.mp3",
     "duration": 1.776,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w087.mp3",
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w088.mp3",
     "duration": 1.872,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w088.mp3",
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w087.mp3",
     "duration": 1.872,
     "lastWordEnd": 0
   },
@@ -505,17 +510,12 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w090.mp3",
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w091.mp3",
     "duration": 2.016,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001/audio/chapters/lesson-01.mp3",
-    "duration": 151.008,
-    "lastWordEnd": 149.955875
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w091.mp3",
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w090.mp3",
     "duration": 2.016,
     "lastWordEnd": 0
   },
@@ -540,13 +540,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w097.mp3",
-    "duration": 1.848,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w095.mp3",
+    "duration": 2.04,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w095.mp3",
-    "duration": 2.04,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w097.mp3",
+    "duration": 1.848,
     "lastWordEnd": 0
   },
   {
@@ -555,13 +555,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w100.mp3",
-    "duration": 1.8,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w098.mp3",
+    "duration": 2.04,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w098.mp3",
-    "duration": 2.04,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w100.mp3",
+    "duration": 1.8,
     "lastWordEnd": 0
   },
   {
@@ -570,13 +570,18 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w102.mp3",
+    "duration": 1.8,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w103.mp3",
     "duration": 1.704,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w102.mp3",
-    "duration": 1.8,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w104.mp3",
+    "duration": 1.776,
     "lastWordEnd": 0
   },
   {
@@ -585,8 +590,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w104.mp3",
-    "duration": 1.776,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w108.mp3",
+    "duration": 1.608,
     "lastWordEnd": 0
   },
   {
@@ -600,18 +605,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w108.mp3",
-    "duration": 1.608,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w109.mp3",
     "duration": 1.776,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w112.mp3",
-    "duration": 1.752,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w110.mp3",
+    "duration": 1.848,
     "lastWordEnd": 0
   },
   {
@@ -620,7 +620,12 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w110.mp3",
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w112.mp3",
+    "duration": 1.752,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w114.mp3",
     "duration": 1.848,
     "lastWordEnd": 0
   },
@@ -630,8 +635,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w114.mp3",
-    "duration": 1.848,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w115.mp3",
+    "duration": 1.872,
     "lastWordEnd": 0
   },
   {
@@ -640,27 +645,17 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w115.mp3",
-    "duration": 1.872,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w117.mp3",
     "duration": 2.16,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w119.mp3",
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w118.mp3",
     "duration": 1.632,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w121.mp3",
-    "duration": 1.872,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w118.mp3",
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w119.mp3",
     "duration": 1.632,
     "lastWordEnd": 0
   },
@@ -670,18 +665,28 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w124.mp3",
-    "duration": 1.896,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w123.mp3",
     "duration": 1.8,
     "lastWordEnd": 0
   },
   {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w121.mp3",
+    "duration": 1.872,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w124.mp3",
+    "duration": 1.896,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w122.mp3",
     "duration": 2.208,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w126.mp3",
+    "duration": 1.776,
     "lastWordEnd": 0
   },
   {
@@ -695,18 +700,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w129.mp3",
-    "duration": 1.8,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w126.mp3",
-    "duration": 1.776,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w128.mp3",
     "duration": 2.112,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w129.mp3",
+    "duration": 1.8,
     "lastWordEnd": 0
   },
   {
@@ -760,18 +760,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w141.mp3",
-    "duration": 1.944,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w140.mp3",
     "duration": 1.872,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w142.mp3",
-    "duration": 1.848,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w141.mp3",
+    "duration": 1.944,
     "lastWordEnd": 0
   },
   {
@@ -781,6 +776,11 @@
   },
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w144.mp3",
+    "duration": 1.848,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w142.mp3",
     "duration": 1.848,
     "lastWordEnd": 0
   },
@@ -795,13 +795,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w146.mp3",
-    "duration": 2.04,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w148.mp3",
+    "duration": 1.68,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w148.mp3",
-    "duration": 1.68,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w146.mp3",
+    "duration": 2.04,
     "lastWordEnd": 0
   },
   {
@@ -815,23 +815,18 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w151.mp3",
-    "duration": 1.896,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w152.mp3",
     "duration": 1.776,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w153.mp3",
-    "duration": 2.112,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w151.mp3",
+    "duration": 1.896,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w154.mp3",
-    "duration": 1.728,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w153.mp3",
+    "duration": 2.112,
     "lastWordEnd": 0
   },
   {
@@ -842,6 +837,11 @@
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w156.mp3",
     "duration": 1.656,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w154.mp3",
+    "duration": 1.728,
     "lastWordEnd": 0
   },
   {
@@ -860,13 +860,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w161.mp3",
-    "duration": 1.632,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w160.mp3",
+    "duration": 1.92,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w160.mp3",
-    "duration": 1.92,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w161.mp3",
+    "duration": 1.632,
     "lastWordEnd": 0
   },
   {
@@ -880,18 +880,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w166.mp3",
-    "duration": 1.752,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w164.mp3",
     "duration": 1.824,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w165.mp3",
-    "duration": 2.184,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w166.mp3",
+    "duration": 1.752,
     "lastWordEnd": 0
   },
   {
@@ -900,13 +895,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w168.mp3",
-    "duration": 1.848,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w165.mp3",
+    "duration": 2.184,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w170.mp3",
-    "duration": 1.776,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w168.mp3",
+    "duration": 1.848,
     "lastWordEnd": 0
   },
   {
@@ -920,13 +915,23 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w173.mp3",
-    "duration": 1.896,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w170.mp3",
+    "duration": 1.776,
     "lastWordEnd": 0
   },
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w172.mp3",
     "duration": 2.088,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w173.mp3",
+    "duration": 1.896,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w176.mp3",
+    "duration": 1.728,
     "lastWordEnd": 0
   },
   {
@@ -940,18 +945,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w176.mp3",
-    "duration": 1.728,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w178.mp3",
     "duration": 1.416,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w179.mp3",
-    "duration": 1.776,
     "lastWordEnd": 0
   },
   {
@@ -960,8 +955,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w181.mp3",
-    "duration": 1.848,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w179.mp3",
+    "duration": 1.776,
     "lastWordEnd": 0
   },
   {
@@ -972,6 +967,11 @@
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w182.mp3",
     "duration": 2.016,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w181.mp3",
+    "duration": 1.848,
     "lastWordEnd": 0
   },
   {
@@ -1005,28 +1005,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w189.mp3",
-    "duration": 1.968,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w190.mp3",
     "duration": 1.824,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w191.mp3",
-    "duration": 2.04,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w195.mp3",
-    "duration": 1.704,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w193.mp3",
-    "duration": 1.8,
     "lastWordEnd": 0
   },
   {
@@ -1035,18 +1015,43 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w189.mp3",
+    "duration": 1.968,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w191.mp3",
+    "duration": 2.04,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w193.mp3",
+    "duration": 1.8,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w194.mp3",
     "duration": 2.016,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w197.mp3",
-    "duration": 1.872,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w195.mp3",
+    "duration": 1.704,
     "lastWordEnd": 0
   },
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w196.mp3",
     "duration": 1.848,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w200.mp3",
+    "duration": 1.824,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w197.mp3",
+    "duration": 1.872,
     "lastWordEnd": 0
   },
   {
@@ -1060,13 +1065,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w200.mp3",
-    "duration": 1.824,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w201.mp3",
+    "duration": 1.512,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w201.mp3",
-    "duration": 1.512,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w204.mp3",
+    "duration": 1.704,
     "lastWordEnd": 0
   },
   {
@@ -1080,16 +1085,6 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w204.mp3",
-    "duration": 1.704,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w207.mp3",
-    "duration": 1.704,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w205.mp3",
     "duration": 1.896,
     "lastWordEnd": 0
@@ -1100,17 +1095,27 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w209.mp3",
-    "duration": 1.824,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w208.mp3",
     "duration": 2.016,
     "lastWordEnd": 0
   },
   {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w207.mp3",
+    "duration": 1.704,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w211.mp3",
+    "duration": 1.824,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w209.mp3",
+    "duration": 1.824,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w212.mp3",
     "duration": 1.824,
     "lastWordEnd": 0
   },
@@ -1120,8 +1125,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w212.mp3",
-    "duration": 1.824,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w215.mp3",
+    "duration": 1.968,
     "lastWordEnd": 0
   },
   {
@@ -1135,7 +1140,12 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w215.mp3",
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w216.mp3",
+    "duration": 2.04,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w219.mp3",
     "duration": 1.968,
     "lastWordEnd": 0
   },
@@ -1147,16 +1157,6 @@
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w218.mp3",
     "duration": 2.208,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w216.mp3",
-    "duration": 2.04,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w219.mp3",
-    "duration": 1.968,
     "lastWordEnd": 0
   },
   {
@@ -1180,8 +1180,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w225.mp3",
-    "duration": 1.752,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w224.mp3",
+    "duration": 2.136,
     "lastWordEnd": 0
   },
   {
@@ -1190,23 +1190,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w224.mp3",
-    "duration": 2.136,
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w225.mp3",
+    "duration": 1.752,
     "lastWordEnd": 0
   },
   {
     "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w227.mp3",
     "duration": 2.04,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w001.mp3",
-    "duration": 1.632,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w229.mp3",
-    "duration": 1.848,
     "lastWordEnd": 0
   },
   {
@@ -1220,18 +1210,28 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w001.mp3",
+    "duration": 1.632,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-foundations-001-words/audio/words/ar-foundations-001-w229.mp3",
+    "duration": 1.848,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w003.mp3",
     "duration": 2.064,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w004.mp3",
-    "duration": 1.896,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w005.mp3",
+    "duration": 1.8,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w005.mp3",
-    "duration": 1.8,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w004.mp3",
+    "duration": 1.896,
     "lastWordEnd": 0
   },
   {
@@ -1255,6 +1255,11 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w011.mp3",
+    "duration": 1.848,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w010.mp3",
     "duration": 1.968,
     "lastWordEnd": 0
@@ -1265,13 +1270,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w011.mp3",
-    "duration": 1.848,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w013.mp3",
+    "duration": 2.04,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w013.mp3",
-    "duration": 2.04,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w015.mp3",
+    "duration": 2.016,
     "lastWordEnd": 0
   },
   {
@@ -1285,8 +1290,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w015.mp3",
-    "duration": 2.016,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w016.mp3",
+    "duration": 1.968,
     "lastWordEnd": 0
   },
   {
@@ -1295,18 +1300,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w016.mp3",
-    "duration": 1.968,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w019.mp3",
+    "duration": 2.064,
     "lastWordEnd": 0
   },
   {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w020.mp3",
     "duration": 1.56,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w019.mp3",
-    "duration": 2.064,
     "lastWordEnd": 0
   },
   {
@@ -1325,6 +1325,11 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w024.mp3",
+    "duration": 1.896,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w026.mp3",
     "duration": 1.68,
     "lastWordEnd": 0
@@ -1335,18 +1340,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w024.mp3",
-    "duration": 1.896,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w028.mp3",
+    "duration": 1.704,
     "lastWordEnd": 0
   },
   {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w027.mp3",
     "duration": 1.728,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w028.mp3",
-    "duration": 1.704,
     "lastWordEnd": 0
   },
   {
@@ -1360,23 +1360,23 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w034.mp3",
-    "duration": 1.416,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w032.mp3",
     "duration": 1.92,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w033.mp3",
-    "duration": 1.776,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w031.mp3",
+    "duration": 2.16,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w031.mp3",
-    "duration": 2.16,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w034.mp3",
+    "duration": 1.416,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w033.mp3",
+    "duration": 1.776,
     "lastWordEnd": 0
   },
   {
@@ -1405,17 +1405,27 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w040.mp3",
-    "duration": 1.824,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w041.mp3",
     "duration": 1.968,
     "lastWordEnd": 0
   },
   {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w040.mp3",
+    "duration": 1.824,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w042.mp3",
+    "duration": 1.848,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w046.mp3",
+    "duration": 1.752,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w045.mp3",
     "duration": 1.848,
     "lastWordEnd": 0
   },
@@ -1430,18 +1440,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w045.mp3",
-    "duration": 1.848,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w046.mp3",
-    "duration": 1.752,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w047.mp3",
-    "duration": 2.184,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w050.mp3",
+    "duration": 1.776,
     "lastWordEnd": 0
   },
   {
@@ -1455,8 +1455,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w050.mp3",
-    "duration": 1.776,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w047.mp3",
+    "duration": 2.184,
     "lastWordEnd": 0
   },
   {
@@ -1465,8 +1465,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w052.mp3",
-    "duration": 2.16,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w054.mp3",
+    "duration": 1.8,
     "lastWordEnd": 0
   },
   {
@@ -1475,18 +1475,18 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w054.mp3",
-    "duration": 1.8,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w055.mp3",
-    "duration": 1.896,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w052.mp3",
+    "duration": 2.16,
     "lastWordEnd": 0
   },
   {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w057.mp3",
     "duration": 1.584,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w055.mp3",
+    "duration": 1.896,
     "lastWordEnd": 0
   },
   {
@@ -1500,13 +1500,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w059.mp3",
-    "duration": 2.304,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w060.mp3",
+    "duration": 1.824,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w060.mp3",
-    "duration": 1.824,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w059.mp3",
+    "duration": 2.304,
     "lastWordEnd": 0
   },
   {
@@ -1515,13 +1515,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w063.mp3",
-    "duration": 1.752,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w062.mp3",
+    "duration": 2.04,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w062.mp3",
-    "duration": 2.04,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w063.mp3",
+    "duration": 1.752,
     "lastWordEnd": 0
   },
   {
@@ -1560,6 +1560,11 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w073.mp3",
+    "duration": 1.536,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w071.mp3",
     "duration": 1.848,
     "lastWordEnd": 0
@@ -1570,23 +1575,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w073.mp3",
-    "duration": 1.536,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w074.mp3",
     "duration": 1.8,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w075.mp3",
-    "duration": 1.872,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w076.mp3",
-    "duration": 1.896,
     "lastWordEnd": 0
   },
   {
@@ -1595,8 +1585,18 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w079.mp3",
-    "duration": 2.136,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w076.mp3",
+    "duration": 1.896,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w075.mp3",
+    "duration": 1.872,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w078.mp3",
+    "duration": 1.632,
     "lastWordEnd": 0
   },
   {
@@ -1605,8 +1605,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w078.mp3",
-    "duration": 1.632,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w079.mp3",
+    "duration": 2.136,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w081.mp3",
+    "duration": 1.848,
     "lastWordEnd": 0
   },
   {
@@ -1620,18 +1625,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w081.mp3",
-    "duration": 1.848,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w083.mp3",
     "duration": 2.016,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w087.mp3",
-    "duration": 1.704,
     "lastWordEnd": 0
   },
   {
@@ -1645,18 +1640,13 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w087.mp3",
+    "duration": 1.704,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w088.mp3",
     "duration": 1.776,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w091.mp3",
-    "duration": 1.872,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w092.mp3",
-    "duration": 2.064,
     "lastWordEnd": 0
   },
   {
@@ -1675,8 +1665,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w096.mp3",
-    "duration": 1.464,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w091.mp3",
+    "duration": 1.872,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w092.mp3",
+    "duration": 2.064,
     "lastWordEnd": 0
   },
   {
@@ -1690,23 +1685,18 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w097.mp3",
-    "duration": 1.944,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w098.mp3",
     "duration": 1.464,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w100.mp3",
-    "duration": 1.872,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w096.mp3",
+    "duration": 1.464,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w099.mp3",
-    "duration": 2.04,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w097.mp3",
+    "duration": 1.944,
     "lastWordEnd": 0
   },
   {
@@ -1715,8 +1705,23 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w099.mp3",
+    "duration": 2.04,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w100.mp3",
+    "duration": 1.872,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w102.mp3",
     "duration": 2.424,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w105.mp3",
+    "duration": 1.68,
     "lastWordEnd": 0
   },
   {
@@ -1727,11 +1732,6 @@
   {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w104.mp3",
     "duration": 1.896,
-    "lastWordEnd": 0
-  },
-  {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w105.mp3",
-    "duration": 1.68,
     "lastWordEnd": 0
   },
   {
@@ -1760,18 +1760,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w111.mp3",
-    "duration": 1.896,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w112.mp3",
     "duration": 1.8,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w114.mp3",
-    "duration": 1.752,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w111.mp3",
+    "duration": 1.896,
     "lastWordEnd": 0
   },
   {
@@ -1780,18 +1775,23 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w114.mp3",
+    "duration": 1.752,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w115.mp3",
     "duration": 1.968,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w116.mp3",
-    "duration": 1.872,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w117.mp3",
+    "duration": 1.608,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w117.mp3",
-    "duration": 1.608,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w116.mp3",
+    "duration": 1.872,
     "lastWordEnd": 0
   },
   {
@@ -1820,13 +1820,13 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w124.mp3",
-    "duration": 1.824,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w125.mp3",
+    "duration": 1.608,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w125.mp3",
-    "duration": 1.608,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w124.mp3",
+    "duration": 1.824,
     "lastWordEnd": 0
   },
   {
@@ -1840,11 +1840,6 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w129.mp3",
-    "duration": 1.608,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w127.mp3",
     "duration": 1.776,
     "lastWordEnd": 0
@@ -1855,18 +1850,23 @@
     "lastWordEnd": 0
   },
   {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w129.mp3",
+    "duration": 1.608,
+    "lastWordEnd": 0
+  },
+  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w130.mp3",
     "duration": 2.112,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w133.mp3",
-    "duration": 1.944,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w132.mp3",
+    "duration": 1.848,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w132.mp3",
-    "duration": 1.848,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w133.mp3",
+    "duration": 1.944,
     "lastWordEnd": 0
   },
   {
@@ -1880,8 +1880,8 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w137.mp3",
-    "duration": 1.896,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w136.mp3",
+    "duration": 1.68,
     "lastWordEnd": 0
   },
   {
@@ -1890,23 +1890,23 @@
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w136.mp3",
-    "duration": 1.68,
-    "lastWordEnd": 0
-  },
-  {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w138.mp3",
     "duration": 1.848,
     "lastWordEnd": 0
   },
   {
-    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w139.mp3",
-    "duration": 1.872,
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w137.mp3",
+    "duration": 1.896,
     "lastWordEnd": 0
   },
   {
     "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w142.mp3",
     "duration": 1.68,
+    "lastWordEnd": 0
+  },
+  {
+    "key": "ar-fisherman-001-words/audio/words/ar-fisherman-001-w139.mp3",
+    "duration": 1.872,
     "lastWordEnd": 0
   },
   {

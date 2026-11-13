@@ -44,3 +44,8 @@ v0.2.1 使用 versionCode 2 与原有签名密钥，可覆盖安装 v0.2.0；旧
 
 
 v0.2.1 已正式发布：https://github.com/Fankikotan/Arabic_Learning_App/releases/tag/v0.2.1 。覆盖安装/启动及公开 APK 下载校验和验证通过，v0.2.0 保留。
+
+
+## 2026-11-14 v0.2.2
+
+新增课文连续播放及播放器定时入口、卡片切换自动读词选项、Android 应用内返回、播放列表详情与连播、稍后播放队列。versionCode 3，沿用原签名。

@@ -47,6 +47,14 @@ try{
  await run('document.querySelector("[data-action=shared-view]").click()');
  }
  results.push('independent example-original and translation settings: all six combinations in entry and card views');
+
+ await run(`document.querySelector('[data-action="card-settings"]').click();document.querySelector('#cs-autoPronounce').checked=true;document.querySelector('#cs-autoPronounce').dispatchEvent(new Event('change'));document.querySelector('#panel').close();window.beforeSwipe=window.mediaPlays.length;document.dispatchEvent(new KeyboardEvent('keydown',{key:'ArrowRight'}))`);
+ await wait('window.mediaPlays.length>window.beforeSwipe');results.push('card navigation automatically pronounces the selected word');
+ await run(`window.arabicGoBack();window.arabicGoBack();document.querySelector('[data-page="playlists"]').click();document.querySelector('[data-action="new-playlist"]').click();document.querySelector('#playlist-name').value='Continuous test';document.querySelector('#playlist-form').requestSubmit()`);
+ assert.equal(await run('!!document.querySelector("[data-playlist-detail]")'),true);
+ await run(`document.querySelector('[data-playlist-detail]').click()`);
+ assert.equal(await run('!!document.querySelector("[data-action=sleep-settings]")'),true);
+ assert.equal(await run('window.arabicGoBack()'),true);results.push('playlist summary opens details with timer and Android back returns to summaries');
  assert.deepEqual(errors,[]);console.log(JSON.stringify({passed:results,errors},null,2));await writeFile('browser-check-results.json',JSON.stringify({passed:results,errors},null,2));
  await send('Browser.close').catch(()=>{});
 }catch(e){console.error(e);console.error('Browser exceptions:',errors);process.exitCode=1}finally{ws?.close();chrome.kill();server.close()}
