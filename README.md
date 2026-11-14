@@ -1,6 +1,6 @@
 # Arabic Learning
 
-[下载 Android APK](https://github.com/Fankikotan/Arabic_Learning_App/releases/download/v0.2.2/Arabic-Learning-v0.2.2.apk) · [Release 与校验文件](https://github.com/Fankikotan/Arabic_Learning_App/releases/tag/v0.2.2)
+[下载 Android APK](https://github.com/Fankikotan/Arabic_Learning_App/releases/download/v0.2.3/Arabic-Learning-v0.2.3.apk) · [Release 与校验文件](https://github.com/Fankikotan/Arabic_Learning_App/releases/tag/v0.2.3)
 
 手机优先的阿拉伯语学习软件。已内置 12 课入门教材、194 词《渔夫与精灵》、配套词本、章节语法、翻译、385 段真实音频和阿英词典，无需额外导入。
 
@@ -56,3 +56,8 @@ v0.2.2 使用 versionCode 2 与原有签名密钥，可覆盖安装 v0.2.0；旧
 课文播放器增加播放时长设置，章节结束自动播放下一章。播放列表首页折叠为列表入口，详情页支持按顺序连播、定时停止和通过章节右侧加号添加到稍后播放队列。卡片设置增加切换后自动读词选项，默认关闭。Android 返回手势优先关闭弹窗、退出阅读器或词本详情、返回首页，仅首页退出应用。
 
 沿用原签名，versionCode 3，可覆盖升级。后台定时受系统调度影响，具体手机仍需实机确认。
+
+
+## v0.2.3：自定义封面与播放器布局
+
+打开书籍 → 设置 → 自定义书籍封面，可选择 PNG、JPEG、WebP 图片（最大 10 MB），或恢复原封面。封面存于当前设备，重启后保留。播放器图标缩小、按钮固定单行，长标题省略显示。沿用原签名，versionCode 4，可覆盖安装。浏览器功能检查、Android 构建及签名验证通过。

@@ -49,3 +49,8 @@ v0.2.1 已正式发布：https://github.com/Fankikotan/Arabic_Learning_App/relea
 ## 2026-11-14 v0.2.2
 
 新增课文连续播放及播放器定时入口、卡片切换自动读词选项、Android 应用内返回、播放列表详情与连播、稍后播放队列。versionCode 3，沿用原签名。
+
+
+## v0.2.3
+
+自定义书籍封面、恢复原封面与本地保存；播放器窄屏单行布局。versionCode 4，沿用原签名；浏览器检查、构建与签名验证通过。

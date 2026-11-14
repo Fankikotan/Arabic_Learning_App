@@ -19,7 +19,8 @@
     "card word tap speaks without flipping the translation",
     "independent example-original and translation settings: all six combinations in entry and card views",
     "card navigation automatically pronounces the selected word",
-    "playlist summary opens details with timer and Android back returns to summaries"
+    "playlist summary opens details with timer and Android back returns to summaries",
+    "custom book cover image selection and persistent storage"
   ],
   "errors": []
 }

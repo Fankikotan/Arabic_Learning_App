@@ -55,6 +55,13 @@ try{
  await run(`document.querySelector('[data-playlist-detail]').click()`);
  assert.equal(await run('!!document.querySelector("[data-action=sleep-settings]")'),true);
  assert.equal(await run('window.arabicGoBack()'),true);results.push('playlist summary opens details with timer and Android back returns to summaries');
+
+ await run(`window.arabicGoBack();document.querySelector('[data-book]').click()`);await wait('!!document.querySelector(".reader")');
+ await run(`document.querySelector('[data-action="reading-settings"]').click();document.querySelector('[data-action="book-cover"]').click()`);
+ await run(`(async()=>{const blob=await fetch('builtin/ar-fisherman-001/covers/fisherman.png').then(r=>r.blob()),transfer=new DataTransfer();transfer.items.add(new File([blob],'cover.png',{type:'image/png'}));const input=document.querySelector('#book-cover-file');input.files=transfer.files;input.dispatchEvent(new Event('change'))})()`);
+ await wait('document.querySelector("#toast").textContent.includes("封面已保存")');
+ await run(`document.querySelector('#panel').close();window.arabicGoBack()`);await wait('!!document.querySelector(".cover-image")');
+ results.push('custom book cover image selection and persistent storage');
  assert.deepEqual(errors,[]);console.log(JSON.stringify({passed:results,errors},null,2));await writeFile('browser-check-results.json',JSON.stringify({passed:results,errors},null,2));
  await send('Browser.close').catch(()=>{});
 }catch(e){console.error(e);console.error('Browser exceptions:',errors);process.exitCode=1}finally{ws?.close();chrome.kill();server.close()}
