@@ -62,6 +62,19 @@ try{
  await wait('document.querySelector("#toast").textContent.includes("封面已保存")');
  await run(`document.querySelector('#panel').close();window.arabicGoBack()`);await wait('!!document.querySelector(".cover-image")');
  results.push('custom book cover image selection and persistent storage');
+
+ await run(`document.querySelector('[data-book]').click()`);await wait('!!document.querySelector(".reader")');
+ await run(`document.querySelector('[data-action="reading-settings"]').click();const readingColor=document.querySelector('#reading-color');readingColor.value='#bbccdd';readingColor.dispatchEvent(new Event('input'));document.querySelector('#panel').close();document.querySelector('[data-action="audio-panel"]').click();document.querySelector('[data-action="toggle-play"]').click()`);
+ await wait('document.querySelector(".chapter-meta").textContent.includes("收听模式")');
+ assert.equal(await run('document.documentElement.style.getPropertyValue("--reading")'),'#bbccdd');
+ await run(`document.querySelector('[data-action="sleep-settings"]').click()`);
+ assert.equal(await run('document.querySelector("#playback-timer-card").hidden'),true);
+ await run(`document.querySelector('[data-playback-tab="timer"]').click()`);
+ assert.equal(await run('document.querySelector("#playback-queue-card").hidden'),true);
+ await run(`document.querySelector('[data-playback-tab="queue"]').click()`);
+ assert.equal(await run('document.querySelector("#playback-queue-card").hidden'),false);
+ results.push('custom reading color, automatic listening mode, queue-first playback panel and timer tabs');
  assert.deepEqual(errors,[]);console.log(JSON.stringify({passed:results,errors},null,2));await writeFile('browser-check-results.json',JSON.stringify({passed:results,errors},null,2));
  await send('Browser.close').catch(()=>{});
 }catch(e){console.error(e);console.error('Browser exceptions:',errors);process.exitCode=1}finally{ws?.close();chrome.kill();server.close()}
+
